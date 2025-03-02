@@ -7,7 +7,7 @@ A simple and functional digital clock app built using **Python**. This app displ
 - Displays the current time in a **digital format** (hours, minutes, seconds).
 - **Real-time updates**: The time updates every second.
 - **Simple User Interface**: Clean, minimalistic, and easy to read.
-- Customizable color themes for the clock and background (if applicable).
+
 
 
 ## Tech Stack
